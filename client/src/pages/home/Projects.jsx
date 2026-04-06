@@ -46,12 +46,7 @@ function Projects() {
                 {projects[selectedProject].description}{" "}
               </p>
 
-              <p className=" text-white">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-                quam natus sit nemo voluptate odit fuga? Blanditiis dignissimos
-                sed voluptatum cupiditate cum quas non illum nemo voluptas
-                fugit! Optio, error.
-              </p>
+            
             </div>
           </div>
         </a>
